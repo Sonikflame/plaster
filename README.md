@@ -16,6 +16,7 @@
 * Slick.js
 * Fotorama.js
 * Animate.css
+* Masked.js
 
 
 #### Обо мне:
